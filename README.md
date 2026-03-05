@@ -21,6 +21,21 @@ This type of analysis helps retailers make more informed decisions about pricing
 
 ---
 
+## Project Files
+
+The main files used in this project are listed below:
+
+- **Dataset**  
+  [retail_sales.csv](data/retail_sales.csv)
+
+- **Analysis Notebook**  
+  [retail_sales_analysis.ipynb](notebooks/retail_sales_analysis.ipynb)
+
+- **Dataset Generation Script**  
+  [generate_dataset.py](data/generate_dataset.py)
+
+---
+
 # Dataset
 The dataset used in this project was generated to simulate a retail store environment.
 
