@@ -17,7 +17,7 @@ The goal of this project is to use data analysis to explore:
 - How promotions are used across different products
 - Whether promotions affect the number of units sold
 
-This type of analysis helps retailers make more informed decisions about pricing, product focus, and promotional strategies.
+This type of analysis helps retailers make more informed decisions about pricing, product focus and promotional strategies.
 
 ---
 
@@ -61,7 +61,7 @@ This project was completed using:
 - Seaborn
 - Jupyter Notebook
 
-These tools were used for data cleaning, analysis, and visualization.
+These tools were used for data cleaning, analysis and visualization.
 
 ---
 
@@ -95,7 +95,7 @@ The project includes several stages of analysis:
   Footwear and Perfume generate the highest revenue among product categories.
 
 - **Promotion usage:**  
-  Promotions are most frequently applied to categories such as Perfume, Footwear, and Accessories.
+  Promotions are most frequently applied to categories such as Perfume, Footwear and Accessories.
 
 - **Promotion effectiveness:**  
   Promotions show only small differences in average units sold compared to non-promotional sales.
@@ -126,20 +126,14 @@ This repository is organized as follows:
 
 - **data/**  
   Contains the dataset used in this project.  
-  - `retail_sales.csv` – Simulated retail sales dataset used for the analysis.
+  - `retail_sales.csv` : Simulated retail sales dataset used for the analysis.
 
 - **notebooks/**  
   Contains the main analysis notebook.  
-  - `retail_sales_analysis.ipynb` – Jupyter Notebook with the full data analysis, visualizations, and insights.
+  - `retail_sales_analysis.ipynb` : Jupyter Notebook with the full data analysis, visualizations and insights.
 
 - **README.md**  
-  Provides an overview of the project, including objectives, methods, and key insights.
-
-- **LICENSE**  
-  Specifies how this project can be used or shared.
-
-- **.gitignore**  
-  Lists files and folders that should not be tracked by Git.
+  Provides an overview of the project, including objectives, methods and key insights.
 
 ---
 
